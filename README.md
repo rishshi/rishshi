@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishshi alias Shiladitya
 - 👀 I’m interested in ... Microservices
 - 🌱 I’m currently learning ... Microservices
-- 💞️ I’m looking to collaborate on ...Interesting Projects 
+- 💞️ I’m looking to collaborate on ...Interesting and exciting Projects 
 - 📫 How to reach me ...
 
 <!---
